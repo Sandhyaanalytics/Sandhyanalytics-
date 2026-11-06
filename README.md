@@ -183,3 +183,49 @@ HR & Administration | Bangalore
 My professional journey has provided cross-functional exposure to business operations, client management, brand development, strategic coordination and independent business initiatives.
 
 
+
+
+---
+
+Consulting Services
+
+Supporting businesses through structured research, strategic thinking, market intelligence and analytical insights.
+
+01. Business Strategy & Growth Research
+
+- Business assessment and strategic analysis.
+- Growth opportunities and expansion research.
+- Business model and market positioning assessment.
+- Strategic planning support and recommendations.
+
+02. Market Research & Intelligence
+
+- Industry and market landscape research.
+- Market trends and opportunity assessment.
+- Competitor analysis and benchmarking.
+- Consumer and demand research.
+
+03. Business Development Research
+
+- Business opportunity identification.
+- Potential market and client research.
+- Partnership and collaboration opportunities.
+- Business development intelligence and strategic support.
+
+04. Business & Marketing Analytics
+
+- Business performance analysis.
+- Marketing campaign and sales analysis.
+- Performance measurement and interpretation.
+- Power BI dashboards and business reporting.
+
+05. Operational & Project Strategy
+
+- Business process and operational assessment.
+- Project planning and coordination.
+- Cross-functional coordination support.
+- Research-backed operational improvement recommendations.
+
+---
+
+Engagements are approached with an emphasis on business context, evidence-based research, practical feasibility and long-term value.
