@@ -29,3 +29,33 @@ I am currently building an independent consulting practice focused on supporting
 - Business Intelligence & Dashboard Reporting
 
 ---
+
+
+
+
+---
+
+## Core Skills & Tools
+
+**Business & Strategy**
+- Business Strategy & Research
+- Market and Competitor Intelligence
+- Business Development Research
+- Growth & Opportunity Analysis
+- Business Performance Evaluation
+
+**Research & Analytics**
+- Market Research & Industry Analysis
+- Data Analysis & Interpretation
+- Business Intelligence
+- Performance Measurement
+- Dashboard Development & Reporting
+
+**Tools & Technologies**
+- Microsoft Power BI
+- DAX
+- Microsoft Excel
+- Power Query
+- Data Visualisation
+
+---
