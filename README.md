@@ -135,7 +135,7 @@ Research projects and case studies are being progressively developed into struct
 
 Professional Experience
 
-My professional experience spans business development, brand development, client engagement, project coordination and independent consulting across different business environments.
+My professional experience spans business development, brand strategy and development, business research, sustainability advocacy, environment research analysis, client engagement, project coordination and independent consulting across different business environments.
 
 Independent Consulting & Business Projects
 
