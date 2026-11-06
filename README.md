@@ -59,3 +59,33 @@ I am currently building an independent consulting practice focused on supporting
 - Data Visualisation
 
 ---
+
+
+---
+
+Featured Projects
+
+Selected analytical projects demonstrating business performance evaluation, data interpretation and actionable insights.
+
+1. Marketing Campaign Performance Analysis
+
+Evaluation of marketing campaign effectiveness, channel performance, conversion trends and ROI using Excel and Power BI.
+
+"Explore Project →" (https://github.com/Sandhyaanalytics/Marketing-Campaign-Performance-Analysis)
+
+2. Retail Sales Performance Analysis
+
+Analysis of retail sales performance to understand business trends, sales patterns and performance opportunities.
+
+"Explore Project →" (https://github.com/Sandhyaanalytics/Retail-Sales-performance-Analysis-)
+
+3. Customer Churn Analysis
+
+Customer churn analysis to explore retention patterns and identify insights relevant to customer engagement and business performance.
+
+"Explore Project →" (https://github.com/Sandhyaanalytics/Churn-Analysis-Dashboard-)
+
+---
+
+
+
