@@ -130,3 +130,56 @@ Research projects and case studies are being progressively developed into struct
 
 
 
+
+---
+
+Professional Experience
+
+My professional experience spans business development, brand development, client engagement, project coordination and independent consulting across different business environments.
+
+Independent Consulting & Business Projects
+
+Independent Consultant | Business Strategy, Research & Business Development
+
+- Business research, opportunity assessment and strategic analysis.
+- Business development and client relationship coordination.
+- Brand positioning, marketing and growth-oriented initiatives.
+- Project planning, coordination and cross-functional collaboration.
+- Research-based business insights and strategic recommendations.
+
+World Fashion League
+
+Brand Development & International Client Project Associate
+
+- Brand development and client project coordination.
+- International client engagement and communication.
+- Fashion event planning and coordination.
+- Collaboration with designers, brands and internal stakeholders.
+
+ISACHI, Bangalore
+
+Business Development & Strategy
+
+- Business development initiatives and strategic coordination.
+- Business research and opportunity identification.
+- Client engagement and business development support.
+
+Tech Mahindra, Bangalore
+
+Process Associate / Business Executive
+
+- Experience in business process operations within the Amazon process.
+- Exposure to structured business operations, process coordination and customer-oriented workflows.
+
+Early Professional Experience
+
+HR & Administration | Bangalore
+
+- Human resource and administrative coordination.
+- Organisational support and operational activities.
+
+---
+
+My professional journey has provided cross-functional exposure to business operations, client management, brand development, strategic coordination and independent business initiatives.
+
+
