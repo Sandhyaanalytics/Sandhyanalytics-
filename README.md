@@ -87,5 +87,46 @@ Customer churn analysis to explore retention patterns and identify insights rele
 
 ---
 
+---
+
+Research & Strategic Case Studies
+
+Exploring business environments, market dynamics, emerging opportunities and strategic possibilities through structured research and analytical thinking.
+
+Areas of Research
+
+01. Market & Industry Research
+
+- Industry and market landscape analysis
+- Market trends and emerging opportunities
+- Competitor intelligence and positioning
+- Consumer behaviour and market dynamics
+
+02. Business Strategy & Growth
+
+- Business opportunity assessment
+- Growth strategy and business development research
+- Business model evaluation
+- Strategic recommendations and decision support
+
+03. Sector & Opportunity Research
+
+Urban India Wellness & Healthy Food Market — Opportunity Research
+
+An ongoing research project examining India's evolving wellness and healthy food landscape, market opportunities, consumer shifts, competitive positioning and potential business directions.
+
+04. Sustainability & Emerging Business Opportunities
+
+- Sustainability-led business opportunities
+- Emerging industry trends
+- Responsible business models
+- Long-term market potential and strategic implications
+
+---
+
+Research projects and case studies are being progressively developed into structured reports, analytical briefs and documented business insights.
+
+---
+
 
 
