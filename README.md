@@ -229,3 +229,43 @@ Supporting businesses through structured research, strategic thinking, market in
 ---
 
 Engagements are approached with an emphasis on business context, evidence-based research, practical feasibility and long-term value.
+
+
+
+
+---
+
+Consulting Approach
+
+My approach to consulting is rooted in understanding the business before recommending solutions.
+
+I believe effective business decisions require a combination of research, critical thinking, market understanding, analytical evaluation and practical judgement.
+
+How I Work
+
+01. Understand
+Understand the business, its objectives, current position, challenges and requirements.
+
+02. Research
+Examine the relevant market, industry environment, competitors, available evidence and emerging developments.
+
+03. Analyse
+Evaluate business performance, identify patterns, assess gaps and investigate potential opportunities.
+
+04. Interpret
+Translate research and analytical findings into meaningful business insights and strategic implications.
+
+05. Recommend
+Develop practical, evidence-informed recommendations aligned with business objectives, available resources and long-term potential.
+
+Professional Principles
+
+- Research-led and evidence-informed decision-making.
+- Recommendations aligned with actual business requirements.
+- Balanced evaluation of opportunities, risks and limitations.
+- Responsible and sustainable growth perspectives.
+- Clarity, transparency and practical business relevance.
+
+---
+
+
